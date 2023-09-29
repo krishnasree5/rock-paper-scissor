@@ -1,5 +1,4 @@
 var imgArray = ["rock","paper","scissor"];
-var result;
 
 var randomNumber1 = Math.floor(Math.random() * 3);
 var image = "./assets/images/" + imgArray[randomNumber1] + ".png";
